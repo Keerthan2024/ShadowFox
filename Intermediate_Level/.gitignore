@@ -1,0 +1,103 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model and data artifacts
+*.pkl
+*.joblib
+*.h5
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# React/Node
+node_modules/
+build/
+dist/
+.npm/
+.npmrc
+package-lock.json
+yarn.lock
+
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+frontend/package-lock.json
+frontend/yarn.lock
