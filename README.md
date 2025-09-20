@@ -9,18 +9,16 @@ Each project is organized in its own folder with source code, documentation, and
 
 ## 1. [Biginner_Level](./Project1/)
 ### [Boston_House_Price_Prediction](./BostonHousePricePrediction/)
-- 🔹 *Description:* This project predicts Boston house prices using machine learning regression models.  
-  It covers data preprocessing, feature engineering, model training, evaluation, and deployment.  
-- 🔹 *Tech Stack:* Python, scikit-learn, Flask, React.js, pandas, numpy, matplotlib  
+- 🔹 Description: This project demonstrates house price prediction using Machine Learning regression algorithms built with scikit-learn. The model is trained on the classic Boston Housing dataset containing 506 samples with 13 features including crime rate, average rooms, location factors, and socio-economic indicators to predict median home values.
+- 🔹 Tech Stack: Python, Flask, scikit-learn, pandas, numpy, matplotlib, seaborn 
 - 🔹 *Demo Link:* [Click Here](https://your-demo-link.com) 
 
 ---
 
 ## 2. [Intermediate_Level](./Project2/)
-### [Intermediate_Level](./CarPricePrediction/)
-- 🔹 *Description:* This project predicts Boston house prices using machine learning models trained on the classic Boston Housing dataset.  
-  It demonstrates end-to-end ML workflow including data preprocessing, feature engineering, model training, hyperparameter tuning, and evaluation.  
-- 🔹 *Tech Stack:* Python, Flask, React.js, scikit-learn, matplotlib, pandas, numpy  
+### [Car_Price_Prediction](./CarPricePrediction/)
+- 🔹 Description: This project demonstrates car selling price prediction using Machine Learning algorithms built with scikit-learn and Flask. The model is trained on real car sales dataset containing 299 transactions with features like car age, mileage, fuel type, and present price to accurately predict selling prices.
+- 🔹 Tech Stack: Python, React.js, Flask, scikit-learn, pandas, numpy, recharts, matplotlib
 - 🔹 *Demo Link:* [Click Here](https://your-demo-link.com) 
 
 ---
