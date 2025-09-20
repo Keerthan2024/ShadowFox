@@ -7,8 +7,8 @@ Each project is organized in its own folder with source code, documentation, and
 
 # 📂 Projects List
 
-## 1. [Biginner_Level](./Project1/)
-### [Boston_House_Price_Prediction](./BostonHousePricePrediction/)
+## 1. [Biginner_Level](https://github.com/Keerthan2024/ShadowFox/tree/main/Intermediate_Level)
+### [Boston_House_Price_Prediction](https://github.com/Keerthan2024/ShadowFox/tree/main/Intermediate_Level)
 - 🔹 Description: This project demonstrates house price prediction using Machine Learning regression algorithms built with scikit-learn. The model is trained on the classic Boston Housing dataset containing 506 samples with 13 features including crime rate, average rooms, location factors, and socio-economic indicators to predict median home values.
 - 🔹 Tech Stack: Python, Flask, scikit-learn, pandas, numpy, matplotlib, seaborn.
 - 🔹 *Demo Link:* [Click Here](https://drive.google.com/file/d/1EHvcPh8NZq3ovtObyPjRer71lbKOLwYc/view?usp=sharing)
