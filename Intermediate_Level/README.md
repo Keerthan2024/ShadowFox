@@ -102,22 +102,22 @@ CarPricePrediction/
 Below are key visualizations from the project:
 
 ### 1. Car Price Dataset Analysis
-![Car Price Dataset Analysis](Fig_1.png)
+![Car Price Dataset Analysis](images\Fig_1.png)
 
 ### 2. Feature Correlation Matrix
-![Feature Correlation Matrix](Fig_2.png)
+![Feature Correlation Matrix](images\Fig_2.png)
 
 ### 3. Model Performance & Error
-![Model Performance and Error](Fig_3.png)
+![Model Performance and Error](images\Fig_3.png)
 
 ### 4. Actual vs Predicted & Residuals
-![Actual vs Predicted and Residuals](Fig_4.png)
+![Actual vs Predicted and Residuals](images\Fig_4.png)
 
 ### 5. Model Performance Analysis: Tuned Lasso Regression
-![Model Performance Analysis: Tuned Lasso Regression](Fig_5.png)
+![Model Performance Analysis: Tuned Lasso Regression](images\Fig_5.png)
 
 ### 6. Advanced Model Analysis: Tuned Lasso Regression
-![Advanced Model Analysis: Tuned Lasso Regression](Fig_6.png)
+![Advanced Model Analysis: Tuned Lasso Regression](images\Fig_6.png)
 
 ## .gitignore
 
