@@ -32,5 +32,8 @@ Each project is organized in its own folder with source code, documentation, and
 
 ## 📖 How to Use
 1. Clone this repository:
-   '''bash git clone https://github.com/yourusername/ShadowFox.git'''
+   ```bash
+   git clone
+   https://github.com/yourusername/ShadowFox.git
+   ```
    
