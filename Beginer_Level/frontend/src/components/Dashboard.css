@@ -1,0 +1,39 @@
+.dashboard {
+  background: rgba(255,255,255,0.09);
+  border-radius: 15px;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  color: #232323;
+}
+
+.dashboard h2 {
+  color: #444;
+}
+
+.dashboard-history-section,
+.dashboard-chart-section,
+.dashboard-current-section {
+  margin-bottom: 2rem;
+}
+
+.history-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  color: #232323;
+}
+
+.history-table th, .history-table td {
+  border: 1px solid #d3cce3;
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
+
+.history-table th {
+  background: #eee;
+}
+
+.dashboard-current-section ul {
+  padding-left: 1.5rem;
+  margin: 0.2rem 0;
+}

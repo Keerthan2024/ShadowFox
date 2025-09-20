@@ -1,0 +1,31 @@
+# Ignore large and generated files for backend
+*.pkl
+*.csv
+*.h5
+*.hdf5
+*.joblib
+*.sav
+*.npy
+*.npz
+*.log
+
+# Ignore images (optional, comment out if you want to keep images in git)
+# images/*.png
+# images/*.jpg
+# images/*.jpeg
+# images/*.gif
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+ENV/

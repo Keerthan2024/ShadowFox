@@ -1,0 +1,57 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore large and generated files for frontend
+*.log
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.psd
+*.ai
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.exe
+*.dll
+*.iso
+*.bin
+*.obj
+*.class
+*.pkl
+*.csv
+*.h5
+*.hdf5
+*.joblib
+*.sav
+*.npy
+*.npz
+
+# Ignore images (optional, comment out if you want to keep images in git)
+# public/*.png
+# public/*.jpg
+# public/*.jpeg
+# public/*.gif
+# public/*.svg

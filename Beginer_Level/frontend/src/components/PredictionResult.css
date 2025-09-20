@@ -1,0 +1,82 @@
+.prediction-result {
+  background: #fffdfc;
+  padding: 1.2rem 2rem;
+  border-radius: 10px;
+  margin-top: 1.5rem;
+  color: #222;
+  box-shadow: 0 2px 8px #a8a8a820;
+}
+
+.prediction-result h3 {
+  margin-top: 0;
+}
+
+.prediction-card {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.price-display {
+  flex: 0 0 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2rem;
+}
+.price-emoji {
+  font-size: 2.1rem;
+}
+.price-value {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0.3rem 0;
+}
+.price-category {
+  font-size: 1.05rem;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+.prediction-details {
+  flex: 1 1 auto;
+}
+.detail-item {
+  margin-bottom: 0.3em;
+}
+.detail-label {
+  font-weight: 600;
+  margin-right: 0.4em;
+}
+
+.confidence-bar {
+  display: inline-block;
+  width: 100px;
+  height: 14px;
+  background: #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: 0.5em;
+}
+.confidence-fill {
+  height: 100%;
+  display: inline-block;
+}
+.confidence-text {
+  font-size: 1em;
+  margin-left: 0.5em;
+}
+
+.prediction-insights {
+  margin-top: 1em;
+  background: #f7f3ff;
+  padding: 0.8rem 1.2rem;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+.prediction-result.error {
+  background: #ffeded;
+  color: #ad0505;
+}
