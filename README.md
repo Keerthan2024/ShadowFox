@@ -23,13 +23,6 @@ Each project is organized in its own folder with source code, documentation, and
 
 ---
 
-## 3. [Advanace_Level](./Project3/)
-- 🔹 *Description:* Short description here.
-- 🔹 *Tech Stack:* Mention tools/frameworks used.
-- 🔹 *Demo Link:* [Click Here](https://your-webapp-link.com)
-
----
-
 ## 📖 How to Use
 1. Clone this repository:
    ```bash
